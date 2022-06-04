@@ -1,0 +1,83 @@
+body{
+margin:0%;
+padding:0%;
+
+}
+/*header
+---------------------------------*/
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link {
+    color: #030303;
+     padding: 12px;
+}
+
+
+
+
+.navbar-nav { margin-left: 30%;}
+
+
+
+/* Footer
+---------------------------------*/
+
+.mainfooter {
+    background: #062542;
+    
+    
+}
+
+.main-rahul{
+    color:#dde0e2 !important;
+}
+
+
+
+
+
+<h2 class="featurette-heading" style="margin-left: 25px ;"> <i class="fa fa-book mr-2"></i>Courses </h2>
+    <p class="lead" style="margin-left: 25px ;"> <b> Course short intro –</b> </p>
+      <p style="margin-left: 25px ;">Selenium is one of the most popular and automation powerful testing platforms. 
+        It is not a tool but more than that is a suite of components, which are developed by open source community. 
+        The current version of Selenium suite, as of 2017, is 3.0.
+        In addition to Selenium 3.0, there are several automation testing tools available in the market e.g. HP UFT (Unified Functional Testing tool), 
+        TestComplete etc.
+        </p>
+        <p class="lead" style="margin-left: 25px ;"> <b> Course Description – </b> </p>
+      <p style="margin-left: 25px ;">Selenium Syllabus, Selenium Fundamentals, Java for Selenium, Selenium WebDriver, 
+        TestNG Testing Framework for Selenium, and Selenium Automation Framework. 
+        Select Selenium Tool/s, Programming Language to write Test Scripts, and TestNG Framework as Test Runner.
+        </p>
+        <p class="lead" style="margin-left: 25px ;"> <b> What you will learn/Objectives</b> </p>
+          <ul class="ul" style="margin-left: 25px ;"><li>Selenium Introduction</li>
+                        <li>Selenium WebDriver Setup</li>
+                        <li>Launching Browsers</li>
+                        <li>Finding Web Elements</li>
+                        <li>Waits in Selenium</li>
+                        <li>Selenium Basic Commands</li>
+                        <li>CSS Locators</li>
+          </ul>
+        <p class="lead" style="margin-left: 25px ;"> <b> Prerequisite –</b> </p>
+        <ul class="ul" style="margin-left: 25px ;"><li>	Software Testing Basics</li>
+          <li>Automation Basics</li>
+          <li> Core Java</li>
+          <li>Web Technologies like HTML, CSS, XML, XPATH, DOM and JavaScript</li>
+         
+</ul>
+        <p class="lead" style="margin-left: 25px ;"> <b> Best Courses of Selenium Certified Professional</b> </p>
+        <ul class="ul" style="margin-left: 25px ;"><li>	DevOpsSchool</li>
+          <li>scmGalaxy</li>
+          <li>Cotocus</li>
+          
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
